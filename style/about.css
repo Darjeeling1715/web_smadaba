@@ -1,8 +1,9 @@
 body {
-
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #e8cfcf; /* Light background for contrast */
+    background-image: url('../background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
